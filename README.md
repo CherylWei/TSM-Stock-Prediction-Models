@@ -1,5 +1,5 @@
 # 📈 TSM-Stock-Prediction-Models
-
+![forecasting](https://img.shields.io/badge/Stock%20Forecast-ARIMA%20%26%20GARCH-blue) ![R](https://img.shields.io/badge/R-Data%20Analysis-brightgreen)
 
 This repository contains R scripts for downloading, analyzing, and forecasting stock prices using ARIMA and GARCH models. It includes functions for backtesting the predictive performance of these models on historical stock data.
 
