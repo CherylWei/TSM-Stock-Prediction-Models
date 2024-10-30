@@ -6,7 +6,7 @@ This repository contains R scripts for downloading, analyzing, and forecasting s
 ## 📂 Directory Structure
 
 ```
-Stock-Analysis-and-Forecasting/
+TSM-Stock-Prediction-Models/
 ├── data/
 │   └── TSM.csv             # Historical data for TSM stock
 ├── scripts/
@@ -14,7 +14,7 @@ Stock-Analysis-and-Forecasting/
 │   ├── backtestGarch.R     # GARCH backtesting function
 │   └── main_script.R       # Main script for performing analysis
 ├── README.md               # This README file
-└── .gitignore              # Specifies intentionally untracked files
+└── .gitignore             
 ```
 
 ## 📜 Requirements
